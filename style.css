@@ -1,0 +1,428 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  margin-left: 27%;
+}
+main {
+  margin-left: 27%;
+}
+header h1 {
+  font-size: 40px;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  color: rgb(124, 124, 124);
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+/* page-1 start */
+.page-1 P:nth-child(1) {
+  color: gray;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 48px;
+}
+.page-1 p:nth-child(2) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-1 a:nth-child(3) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-1 p:nth-child(4) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-1 a:nth-child(5) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-1 p:nth-child(6) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-1 a:nth-child(7) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-1 p:nth-child(8) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-1 a:nth-child(9) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+/* page-1 end */
+/* page-2  */
+.page-2 P:nth-child(1) {
+  color: gray;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 48px;
+}
+.page-2 p:nth-child(2) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-2 a:nth-child(3) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-2 p:nth-child(4) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-2 a:nth-child(5) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-2 p:nth-child(6) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-2 a:nth-child(7) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-2 p:nth-child(8) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-2 a:nth-child(9) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+/* page-2  */
+/* page-3  */
+.page-3 P:nth-child(1) {
+  color: gray;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 48px;
+}
+.page-3 p:nth-child(2) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-3 a:nth-child(3) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-3 p:nth-child(4) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-3 a:nth-child(5) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-3 p:nth-child(6) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-3 a:nth-child(7) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-3 p:nth-child(8) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-3 a:nth-child(9) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+/* page-3  */
+/* page-4  */
+.page-4 P:nth-child(1) {
+  color: gray;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 48px;
+}
+.page-4 p:nth-child(2) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-4 a:nth-child(3) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-4 p:nth-child(4) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-4 a:nth-child(5) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-4 p:nth-child(6) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-4 a:nth-child(7) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-4 p:nth-child(8) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-4 a:nth-child(9) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+/* page-4  */
+/* page-5  */
+.page-5 P:nth-child(1) {
+  color: gray;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 48px;
+}
+.page-5 p:nth-child(2) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-5 a:nth-child(3) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-5 p:nth-child(4) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-5 a:nth-child(5) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-5 p:nth-child(6) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-5 a:nth-child(7) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+.page-5 p:nth-child(8) {
+  color: gray;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.page-5 a:nth-child(9) button {
+  background-color: #52bab3;
+  color: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 30px;
+}
+/* page-5  */
+
+section .border-box {
+  width: 700px;
+  height: 1px;
+  background-color: rgb(221, 221, 221);
+  margin-bottom: 24px;
+}
+section p:nth-child(2) {
+  color: gray;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+section p:nth-child(3) {
+  color: gray;
+  font-size: 17px;
+  margin-bottom: 30px;
+}
+.end p:nth-child(1) {
+  margin-top: 40px;
+  font-size: 40px;
+  color: rgb(64, 64, 64);
+  font-weight: 100;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-bottom: 30px;
+}
+.end p:nth-child(2) {
+  font-size: 30px;
+  color: gray;
+}
